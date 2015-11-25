@@ -36,3 +36,5 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+GITHUB_URL = 'https://github.com/yannbaumgartner/histoires-de-briques.git'
