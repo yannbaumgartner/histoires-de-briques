@@ -1,4 +1,4 @@
-Title: Printemps, ete, automne, hiver
+Title: Printemps, été, automne, hiver
 Date: 2015-10-25 21:15
 Modified: 2015-11-25 21:15
 Category: Duplo
