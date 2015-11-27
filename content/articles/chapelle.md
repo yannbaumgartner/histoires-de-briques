@@ -1,10 +1,14 @@
 Title: Chapelle
 Date: 2015-05-09 19:59
-Modified: 2015-11-14 20:00
-Category: LEGO
-Tags: Architecture, Digital
+Modified: 2015-11-27 20:15
+Category:
+Tags: LEGO, Architecture, Digital
 Slug: chapelle
 Authors: Yann Baumgartner
 Summary: Chapelle
 
-Photos
+Ma première construction réalisée avec Lego® Digital Designer.
+
+![Chapelle][chapelle]
+
+[chapelle]: {filename}/images/chapelle.png  "Chapelle"
