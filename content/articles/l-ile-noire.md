@@ -1,8 +1,8 @@
-Title: l'île noire
+Title: L'île noire
 Date: 2013-05-09 21:15
 Modified: 2015-11-27 20:15
 Category:
-Tags: LEGO, Architecture, Bande dessinée, Digital
+Tags: Architecture, Bande dessinée, Digital, LEGO, MOC
 Slug: l-ile-noire
 Authors: Yann Baumgartner
 Summary: L'île noire

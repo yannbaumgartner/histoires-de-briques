@@ -7,15 +7,16 @@ Slug: printemps-ete-automne-hiver
 Authors: Yann Baumgartner
 Summary: Printemps, été, automne, hiver
 
-Printemps
+# Printemps
 ![Printemps][printemps]
 
-Été
+# Été
 ![Été][ete]
 
-Automne
+# Automne
 ![Automne][automne]
-Hiver
+
+# Hiver
 ![Hiver][hiver]
 
 [printemps]: {filename}/images/printemps.jpg  "Printemps"

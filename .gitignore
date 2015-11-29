@@ -58,3 +58,5 @@ target/
 
 #Pelican stuff
 output/
+plugins/
+themes/

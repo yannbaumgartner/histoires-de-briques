@@ -4,7 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Yann Baumgartner'
 SITENAME = u'Histoires de briques'
+SITESUBTITLE = 'Un site dédié aux LEGO®'
 SITEURL = ''
+GITHUB_URL = 'https://github.com/yannbaumgartner/histoires-de-briques.git'
 
 PATH = 'content'
 PAGE_PATHS = ['pages']
@@ -14,6 +16,11 @@ STATIC_PATHS = ['images']
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'fr'
+LOCALE = 'fr_FR.utf8'
+
+DATE_FORMATS = {
+    'fr': '%-d %B %Y',
+}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -29,12 +36,23 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),)
 
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-GITHUB_URL = 'https://github.com/yannbaumgartner/histoires-de-briques.git'
+THEME = 'themes/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'darkly'
+#SITELOGO = 'images/my_site_logo.png'
+#FAVICON = 'images/favicon.png'
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['tipue_search']
+
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
+
+#MENUITEMS = [('Home', '/'), ('Archives', '/archives.html'), ('Search', '/search.html')]
+
+DISPLAY_TAGS_ON_SIDEBAR = 'True'
