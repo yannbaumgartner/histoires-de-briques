@@ -12,6 +12,9 @@ PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['articles']
 STATIC_PATHS = ['images']
+PLUGIN_PATHS = ['plugins']
+
+PLUGINS = ['tag_cloud', 'tipue_search']
 
 TIMEZONE = 'Europe/Paris'
 
@@ -43,12 +46,9 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 THEME = 'themes/pelican-bootstrap3'
-BOOTSTRAP_THEME = 'darkly'
+BOOTSTRAP_THEME = 'flatly'
 #SITELOGO = 'images/my_site_logo.png'
 #FAVICON = 'images/favicon.png'
-
-PLUGIN_PATHS = ['plugins']
-PLUGINS = ['tipue_search']
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
 
