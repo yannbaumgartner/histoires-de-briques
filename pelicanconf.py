@@ -38,6 +38,7 @@ BOOTSTRAP_THEME = 'flatly'
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
 
+DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_TAGS_ON_SIDEBAR = 'True'
 
 # Feed generation is usually not desired when developing
