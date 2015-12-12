@@ -11,7 +11,7 @@ GITHUB_URL = 'https://github.com/yannbaumgartner/histoires-de-briques.git'
 PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['articles']
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.png']
 PLUGIN_PATHS = ['plugins']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
@@ -31,7 +31,7 @@ DATE_FORMATS = {
 
 DEFAULT_PAGINATION = False
 
-SUMMARY_MAX_LENGTH = none
+SUMMARY_MAX_LENGTH = None
 
 THEME = 'themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
