@@ -13,6 +13,10 @@ PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['articles']
 STATIC_PATHS = ['images']
 PLUGIN_PATHS = ['plugins']
+EXTRA_PATH_METADATA = {
+    'extra/robots.txt': {'path': 'robots.txt'},
+    'extra/favicon.ico': {'path': 'favicon.png'}
+}
 
 PLUGINS = ['tag_cloud', 'tipue_search']
 
@@ -25,6 +29,17 @@ DATE_FORMATS = {
     'fr': '%-d %B %Y',
 }
 
+DEFAULT_PAGINATION = False
+
+SUMMARY_MAX_LENGTH = none
+
+THEME = 'themes/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'flatly'
+
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
+
+DISPLAY_TAGS_ON_SIDEBAR = 'True'
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -36,22 +51,3 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),)
-
-# Social widget
-#SOCIAL = (('You can add links in your config file', '#'),)
-
-DEFAULT_PAGINATION = False
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
-THEME = 'themes/pelican-bootstrap3'
-BOOTSTRAP_THEME = 'flatly'
-#SITELOGO = 'images/my_site_logo.png'
-#FAVICON = 'images/favicon.png'
-
-DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
-
-#MENUITEMS = [('Home', '/'), ('Archives', '/archives.html'), ('Search', '/search.html')]
-
-DISPLAY_TAGS_ON_SIDEBAR = 'True'
