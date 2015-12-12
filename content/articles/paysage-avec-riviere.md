@@ -2,10 +2,10 @@ Title: Paysage avec rivière
 Date: 2015-11-14 19:59
 Modified: 2015-11-27 20:15
 Category:
-Tags: 10571, Duplo, MOC, Paysage
+Tags: Duplo, MOC, Paysage
+Sets: 10571
 Slug: paysage-avec-riviere
 Authors: Yann Baumgartner
-Summary: Paysage avec rivière
 
 ![Paysage avec rivière][paysage-avec-riviere]
 

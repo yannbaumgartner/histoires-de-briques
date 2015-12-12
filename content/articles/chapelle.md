@@ -5,7 +5,6 @@ Category:
 Tags: Architecture, Digital, LEGO, MOC
 Slug: chapelle
 Authors: Yann Baumgartner
-Summary: Chapelle
 
 Ma première construction réalisée avec Lego® Digital Designer.
 

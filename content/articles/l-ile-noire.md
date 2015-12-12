@@ -5,7 +5,6 @@ Category:
 Tags: Architecture, Bande dessinée, Digital, LEGO, MOC
 Slug: l-ile-noire
 Authors: Yann Baumgartner
-Summary: L'île noire
 
 # La version originale avec des vraies briques
 ![L'île noire][ile-noire-1]
