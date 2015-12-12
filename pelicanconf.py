@@ -15,12 +15,12 @@ STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.png']
 PLUGIN_PATHS = ['plugins']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/favicon.ico': {'path': 'favicon.png'}
+    'extra/favicon.png': {'path': 'favicon.png'}
 }
 
 PLUGINS = ['tag_cloud', 'tipue_search']
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Zurich'
 
 DEFAULT_LANG = u'fr'
 LOCALE = 'fr_FR.utf8'
