@@ -3,7 +3,7 @@ Date: 2015-10-25 21:15
 Modified: 2015-11-27 20:15
 Category:
 Tags: Architecture, Duplo, MOC
-Set_numbers: 10571
+Sets: 10571
 Slug: empire-state-building
 Authors: Yann Baumgartner
 
