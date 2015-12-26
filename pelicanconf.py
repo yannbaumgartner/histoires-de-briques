@@ -40,6 +40,7 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'sear
 
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_TAGS_ON_SIDEBAR = 'True'
+SHOW_ARTICLE_AUTHOR = 'True'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
