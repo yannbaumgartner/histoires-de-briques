@@ -2,7 +2,7 @@ Title: Paysage avec rivière
 Date: 2015-11-14 19:59
 Modified: 2015-11-27 20:15
 Category:
-Tags: Duplo, MOC, Paysage
+Tags: DUPLO, MOC, Paysage
 Sets: 10571
 Slug: paysage-avec-riviere
 Authors: Yann Baumgartner
