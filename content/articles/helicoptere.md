@@ -3,6 +3,7 @@ Date: 2015-12-24 21:18
 Modified: 2015-12-24 21:18
 Category:
 Tags: Avion, DUPLO, MOC
+Sets: 10571
 Slug: helicoptere
 Authors: Eric Baumgartner
 

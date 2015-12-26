@@ -3,6 +3,7 @@ Date: 2015-12-19 21:18
 Modified: 2015-12-20 21:18
 Category:
 Tags: Avion, DUPLO, MOC
+Sets: 10571
 Slug: concorde
 Authors: Yann Baumgartner
 

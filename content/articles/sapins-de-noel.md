@@ -2,7 +2,8 @@ Title: Sapins de Noël
 Date: 2015-12-11 21:18
 Modified: 2015-12-11 21:18
 Category:
-Tags: DUPLO, MOC
+Tags: Paysage, DUPLO, MOC
+Sets: 10571
 Slug: sapins-de-noel
 Authors: Yann Baumgartner
 
