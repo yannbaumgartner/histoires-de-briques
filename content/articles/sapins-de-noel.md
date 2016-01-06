@@ -7,6 +7,7 @@ Slug: sapins-de-noel
 Authors: Yann Baumgartner
 
 Trois sapins pour les fêtes ! Toutes les pièces proviennent du set 10571.
+
 ![Petit sapin][sapin-1]
 
 ![Moyen sapin][sapin-3]
