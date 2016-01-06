@@ -2,22 +2,23 @@ Title: Printemps, été, automne, hiver
 Date: 2015-10-25 21:15
 Modified: 2015-11-27 20:15
 Category:
-Tags: DUPLO, MOC, Paysage
-Sets: 10571
+Tags: DUPLO, Paysage
 Slug: printemps-ete-automne-hiver
 Authors: Yann Baumgartner
 
-# Printemps
+Petit clin d'oeil au film de Kim Ki-duk pour le titre. Tous les paysages contiennent uniquement des pièces du set 10571.
+
 ![Printemps][printemps]
+Printemps
 
-# Été
 ![Été][ete]
+Été
 
-# Automne
 ![Automne][automne]
+Automne
 
-# Hiver
 ![Hiver][hiver]
+Hiver
 
 [printemps]: {filename}/images/printemps.jpg  "Printemps"
 [ete]: {filename}/images/ete.jpg  "Été"

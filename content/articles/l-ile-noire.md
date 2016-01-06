@@ -2,17 +2,17 @@ Title: L'île noire
 Date: 2013-05-09 21:15
 Modified: 2015-11-27 20:15
 Category:
-Tags: Architecture, Bande dessinée, Digital, LEGO, MOC
+Tags: Digital, LEGO
 Slug: l-ile-noire
 Authors: Yann Baumgartner
 
-# La version originale avec des vraies briques
+La version originale avec des vraies briques.
+
 ![L'île noire][ile-noire-1]
 
 ![L'île noire][ile-noire-2]
 
-# La version réalisée avec LEGO® Digital Designer
-La version digitale a beaucoup évoluée et nécessite bien plus de pièces que celles des sets listés.
+La version réalisée avec LEGO® Digital Designer avec pas mal de changement par rapport à la version originale.
 
 ![L'île noire][ile-noire-3]
 

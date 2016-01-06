@@ -2,12 +2,11 @@ Title: Sapins de Noël
 Date: 2015-12-11 21:18
 Modified: 2015-12-11 21:18
 Category:
-Tags: Paysage, DUPLO, MOC
-Sets: 10571
+Tags: DUPLO, Paysage
 Slug: sapins-de-noel
 Authors: Yann Baumgartner
 
-Trois sapins pour les fêtes !
+Trois sapins pour les fêtes ! Toutes les pièces proviennent du set 10571.
 ![Petit sapin][sapin-1]
 
 ![Moyen sapin][sapin-3]
