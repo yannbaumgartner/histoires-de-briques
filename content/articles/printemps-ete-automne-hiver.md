@@ -9,15 +9,19 @@ Authors: Yann Baumgartner
 Petit clin d'oeil au film de Kim Ki-duk pour le titre. Tous les paysages contiennent uniquement des pièces du set 10571.
 
 ![Printemps][printemps]
+
 Printemps
 
 ![Été][ete]
+
 Été
 
 ![Automne][automne]
+
 Automne
 
 ![Hiver][hiver]
+
 Hiver
 
 [printemps]: {filename}/images/printemps.jpg  "Printemps"
