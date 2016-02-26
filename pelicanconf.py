@@ -12,7 +12,7 @@ PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['articles']
 STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.png']
-PLUGIN_PATHS = ['plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.png': {'path': 'favicon.png'}
@@ -33,10 +33,11 @@ DEFAULT_PAGINATION = False
 
 SUMMARY_MAX_LENGTH = None
 
-THEME = 'themes/pelican-bootstrap3'
+THEME = 'pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
+SEARCH_URL = '/search.html'
 
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_TAGS_ON_SIDEBAR = 'True'
