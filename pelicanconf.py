@@ -7,12 +7,18 @@ SITENAME = u'Histoires de briques'
 SITESUBTITLE = 'Un site dédié aux LEGO®'
 SITEURL = ''
 GITHUB_URL = 'https://github.com/yannbaumgartner/histoires-de-briques.git'
+TIMEZONE = 'Europe/Zurich'
+DEFAULT_LANG = u'fr'
+LOCALE = 'fr_FR.utf8'
+DATE_FORMATS = {
+    'fr': '%-d %B %Y',
+}
 
 PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['articles']
 STATIC_PATHS = ['images', 'extra/robots.txt', 'extra/favicon.png']
-PLUGIN_PATHS = ['../pelican-plugins']
+PLUGIN_PATHS = ['plugins']
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.png': {'path': 'favicon.png'}
@@ -20,20 +26,10 @@ EXTRA_PATH_METADATA = {
 
 PLUGINS = ['tag_cloud', 'tipue_search']
 
-TIMEZONE = 'Europe/Zurich'
-
-DEFAULT_LANG = u'fr'
-LOCALE = 'fr_FR.utf8'
-
-DATE_FORMATS = {
-    'fr': '%-d %B %Y',
-}
-
 DEFAULT_PAGINATION = False
-
 SUMMARY_MAX_LENGTH = None
 
-THEME = '../pelican-themes/pelican-bootstrap3'
+THEME = 'themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
