@@ -33,7 +33,7 @@ DEFAULT_PAGINATION = False
 
 SUMMARY_MAX_LENGTH = None
 
-THEME = 'pelican-bootstrap3'
+THEME = '../pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
