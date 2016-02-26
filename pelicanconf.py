@@ -33,7 +33,6 @@ THEME = 'themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'flatly'
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'search'))
-SEARCH_URL = '/search.html'
 
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
 DISPLAY_TAGS_ON_SIDEBAR = 'True'
