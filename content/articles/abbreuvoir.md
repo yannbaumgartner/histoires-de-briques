@@ -2,7 +2,7 @@ Title: Abbreuvoir
 Date: 2016-01-04 17:56
 Modified: 2016-01-09 14:06
 Category:
-Tags: DUPLO
+Tags: DUPLO, Paysage
 Slug: abbreuvoir
 Authors: Yann Baumgartner
 

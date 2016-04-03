@@ -2,7 +2,7 @@ Title: Sur le pont d'Avignon
 Date: 2016-01-30 17:56
 Modified: 2016-01-30 17:56
 Category:
-Tags: DUPLO
+Tags: DUPLO, Monument
 Slug: sur-le-pont-d-avignon
 Authors: Yann Baumgartner
 

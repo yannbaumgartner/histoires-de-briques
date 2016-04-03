@@ -2,7 +2,7 @@ Title: CERN
 Date: 2016-02-14 17:56
 Modified: 2016-02-14 17:56
 Category:
-Tags: DUPLO
+Tags: DUPLO, Monument
 Slug: cern
 Authors: Yann Baumgartner
 
