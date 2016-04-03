@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'Yann Baumgartner'
 SITENAME = u'Histoires de briques'
 SITESUBTITLE = 'Un site dédié aux LEGO®'
-SITEURL = 'https://github.com/yannbaumgartner/histoires-de-briques'
+SITEURL = ''
 GITHUB_URL = 'https://github.com/yannbaumgartner/histoires-de-briques.git'
 TIMEZONE = 'Europe/Zurich'
 DEFAULT_LANG = u'fr'
@@ -36,8 +36,8 @@ DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'authors', 'archives', 'sear
 SEARCH_URL = '/search.html'
 
 DISPLAY_ARTICLE_INFO_ON_INDEX = True
-DISPLAY_TAGS_ON_SIDEBAR = 'True'
-SHOW_ARTICLE_AUTHOR = 'True'
+DISPLAY_TAGS_ON_SIDEBAR = True
+SHOW_ARTICLE_AUTHOR = True
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None

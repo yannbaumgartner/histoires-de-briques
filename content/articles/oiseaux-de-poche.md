@@ -1,9 +1,9 @@
-Title: Oiseaux
+Title: Oiseaux de poche
 Date: 2016-01-04 17:56
 Modified: 2016-01-09 14:06
 Category:
 Tags: Animal, DUPLO
-Slug: oiseaux
+Slug: oiseaux-de-poche
 Authors: Yann Baumgartner
 
 ![Oiseau][oiseau-de-poche-1]
